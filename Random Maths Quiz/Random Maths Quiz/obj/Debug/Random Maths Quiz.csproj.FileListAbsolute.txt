@@ -1,0 +1,6 @@
+c:\users\rickrich\documents\visual studio 2015\Projects\Random Maths Quiz\Random Maths Quiz\bin\Debug\Random Maths Quiz.exe.config
+c:\users\rickrich\documents\visual studio 2015\Projects\Random Maths Quiz\Random Maths Quiz\bin\Debug\Random Maths Quiz.exe
+c:\users\rickrich\documents\visual studio 2015\Projects\Random Maths Quiz\Random Maths Quiz\bin\Debug\Random Maths Quiz.pdb
+c:\users\rickrich\documents\visual studio 2015\Projects\Random Maths Quiz\Random Maths Quiz\obj\Debug\Random Maths Quiz.csprojResolveAssemblyReference.cache
+c:\users\rickrich\documents\visual studio 2015\Projects\Random Maths Quiz\Random Maths Quiz\obj\Debug\Random Maths Quiz.exe
+c:\users\rickrich\documents\visual studio 2015\Projects\Random Maths Quiz\Random Maths Quiz\obj\Debug\Random Maths Quiz.pdb
